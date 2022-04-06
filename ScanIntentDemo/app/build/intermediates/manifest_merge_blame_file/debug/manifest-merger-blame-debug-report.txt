@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.intentdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:4:1-19:15
+12        android:allowBackup="true"
+12-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:5:5-31
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/868619f449194ba72f380d19757af5d7/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:6:5-39
+17        android:label="@string/app_name"
+17-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:7:5-37
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:8:5-50
+19        android:supportsRtl="true"
+19-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:9:5-31
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:10:5-36
+22        <activity
+22-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:11:5-18:16
+23            android:name="com.android.intentdemo.IntentWedgeSample"
+23-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:12:9-42
+24            android:label="@string/app_name" >
+24-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:13:9-41
+25            <intent-filter>
+25-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:14:9-17:25
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:15:13-65
+26-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:15:21-62
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:16:13-73
+28-->/Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:16:23-70
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

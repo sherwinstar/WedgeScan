@@ -1,0 +1,10 @@
+com/android/intentdemo/IntentWedgeSample.java
+ com.android.intentdemo.IntentWedgeSample
+ com.android.intentdemo.IntentWedgeSample$1
+ com.android.intentdemo.IntentWedgeSample$2
+com/android/intentdemo/BuildConfig.java
+ com.android.intentdemo.BuildConfig
+com/android/intentdemo/WedgeScan.java
+ com.android.intentdemo.WedgeScan
+ com.android.intentdemo.WedgeScan$DecodeWedgeIntentReceiver
+ com.android.intentdemo.WedgeScanCallback

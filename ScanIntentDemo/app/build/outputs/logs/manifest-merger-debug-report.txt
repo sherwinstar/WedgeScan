@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/f199228b3eb006c838bed1357b5e6a4c/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/76ed85a2bf9cf5af4d64785b3167feba/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/336e6e38d6ca3473a53ff89d443d1335/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/f3615b8d28d83a8dc3def9c7e375d82c/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4d88710e084134a64476f7d9fa91dd4d/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/6824e6b1f1aa0af9bdd262e5835f6213/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/507f2aa6e4de0404c074998d041edd71/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/57cb359c85d95d3de8a922ed45c23340/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4cb38a34c11a3c4b6cd0fdf5e4d7b277/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/8fb7474b00b2dcdf87874ba564d49423/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d48bb9d81a13b710babcd3342491bea9/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4b1e0adb185f4cca027130d9f9a1fda4/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/cba218cf1cd3839b54de7fcf8cea9b57/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/6e5a3cf166be6c477571b725fdb33a12/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/868619f449194ba72f380d19757af5d7/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d9e4389649a96f0a4fedc180a9ba44f3/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/7f3051464708ee9dbd237b7372106e47/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/bc8a3233d9bbe3597641006a1008bb4e/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/cf36cd44788ecada87475fc1b6436ecf/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/213b56f26358c069e4112d4fb96db7fd/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/ff4242b2931e90f5f8c04e48a2a9602c/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/0e9f28187427ccc8cbfced812e89d69a/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/3643a596325e8df747c26da0521bf46f/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/710fd108226f526f36b1780683bbcbb5/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/7559ceea190ad6a2cc59298cbb32253c/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/880870ddf287d1cbcddd3c386c7269d1/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:4:1-19:15
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/868619f449194ba72f380d19757af5d7/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/868619f449194ba72f380d19757af5d7/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d9e4389649a96f0a4fedc180a9ba44f3/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d9e4389649a96f0a4fedc180a9ba44f3/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/868619f449194ba72f380d19757af5d7/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:9:5-31
+	android:label
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:7:5-37
+	android:roundIcon
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:8:5-50
+	android:icon
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:6:5-39
+	android:allowBackup
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:5:5-31
+	android:theme
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:10:5-36
+activity#com.android.intentdemo.IntentWedgeSample
+ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:11:5-18:16
+	android:label
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:13:9-41
+	android:name
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:12:9-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:14:9-17:25
+action#android.intent.action.MAIN
+ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:15:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:16:13-73
+	android:name
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml:16:23-70
+uses-sdk
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/f199228b3eb006c838bed1357b5e6a4c/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/f199228b3eb006c838bed1357b5e6a4c/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/76ed85a2bf9cf5af4d64785b3167feba/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/76ed85a2bf9cf5af4d64785b3167feba/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/336e6e38d6ca3473a53ff89d443d1335/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/336e6e38d6ca3473a53ff89d443d1335/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/f3615b8d28d83a8dc3def9c7e375d82c/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/f3615b8d28d83a8dc3def9c7e375d82c/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4d88710e084134a64476f7d9fa91dd4d/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4d88710e084134a64476f7d9fa91dd4d/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/6824e6b1f1aa0af9bdd262e5835f6213/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/6824e6b1f1aa0af9bdd262e5835f6213/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/507f2aa6e4de0404c074998d041edd71/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/507f2aa6e4de0404c074998d041edd71/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/57cb359c85d95d3de8a922ed45c23340/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/57cb359c85d95d3de8a922ed45c23340/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4cb38a34c11a3c4b6cd0fdf5e4d7b277/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4cb38a34c11a3c4b6cd0fdf5e4d7b277/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/8fb7474b00b2dcdf87874ba564d49423/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/8fb7474b00b2dcdf87874ba564d49423/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d48bb9d81a13b710babcd3342491bea9/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d48bb9d81a13b710babcd3342491bea9/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4b1e0adb185f4cca027130d9f9a1fda4/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/4b1e0adb185f4cca027130d9f9a1fda4/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/cba218cf1cd3839b54de7fcf8cea9b57/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/cba218cf1cd3839b54de7fcf8cea9b57/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/6e5a3cf166be6c477571b725fdb33a12/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/6e5a3cf166be6c477571b725fdb33a12/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/868619f449194ba72f380d19757af5d7/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/868619f449194ba72f380d19757af5d7/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d9e4389649a96f0a4fedc180a9ba44f3/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/d9e4389649a96f0a4fedc180a9ba44f3/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/7f3051464708ee9dbd237b7372106e47/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/7f3051464708ee9dbd237b7372106e47/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/bc8a3233d9bbe3597641006a1008bb4e/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/bc8a3233d9bbe3597641006a1008bb4e/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/cf36cd44788ecada87475fc1b6436ecf/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/cf36cd44788ecada87475fc1b6436ecf/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/213b56f26358c069e4112d4fb96db7fd/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/213b56f26358c069e4112d4fb96db7fd/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/ff4242b2931e90f5f8c04e48a2a9602c/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/ff4242b2931e90f5f8c04e48a2a9602c/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/0e9f28187427ccc8cbfced812e89d69a/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/0e9f28187427ccc8cbfced812e89d69a/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/3643a596325e8df747c26da0521bf46f/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/3643a596325e8df747c26da0521bf46f/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/710fd108226f526f36b1780683bbcbb5/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/710fd108226f526f36b1780683bbcbb5/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/7559ceea190ad6a2cc59298cbb32253c/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shaolinzhou/.gradle/caches/transforms-3/7559ceea190ad6a2cc59298cbb32253c/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/880870ddf287d1cbcddd3c386c7269d1/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shaolinzhou/.gradle/caches/transforms-3/880870ddf287d1cbcddd3c386c7269d1/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaolinzhou/Other/ScanManual_V1.2/CN/单次扫码广播示例/ScanIntentDemo/app/src/main/AndroidManifest.xml

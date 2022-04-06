@@ -1,0 +1,11 @@
+com/android/autoscan/BuildConfig.java
+ com.android.autoscan.BuildConfig
+com/android/autoscan/WedgeScan.java
+ com.android.autoscan.WedgeScan
+ com.android.autoscan.WedgeScan$DecodeWedgeIntentReceiver
+ com.android.autoscan.WedgeScanCallback
+com/android/autoscan/IntentWedgeSample.java
+ com.android.autoscan.IntentWedgeSample
+ com.android.autoscan.IntentWedgeSample$1
+ com.android.autoscan.IntentWedgeSample$2
+ com.android.autoscan.IntentWedgeSample$3
